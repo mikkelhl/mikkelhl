@@ -1,5 +1,7 @@
 Hailing from the Danish domain, my roots intertwine with the world of software development. A chronicle of hobbyist ventures predates my evolution into a proficient software artisan, all while my connection to cutting-edge technologies endures unwaveringly. As of now, I find myself traversing different realms, fueled by a passion for exploration.
 
+My focus revolves around React and TypeScript, where I delve into the intricacies of crafting immersive digital experiences. My repertoire includes an in-depth mastery of JavaScript, a language that has been both the canvas and the paintbrush throughout my creative software endeavors.
+
 My professional chronicle includes:
 
 - Frontend Developer at JOE & THE JUICE, Feb 2022 - Aug 2023
